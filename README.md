@@ -1,6 +1,6 @@
 # int_whitelist
 
-Fivem Whitelist system useing [Sequelize](https://sequelize.org/)
+Fivem Whitelist system using [Sequelize](https://sequelize.org/)
 
 ![Screenshot are here](https://cdn.discordapp.com/attachments/988781355385114624/988793087100846111/unknown.png)
 
